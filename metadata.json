@@ -1,0 +1,5 @@
+{
+  "name": "AI Creative Writing Assistant",
+  "description": "An advanced AI creative writing assistant to generate high-quality stories and poems based on user input and selected customization parameters. The generator supports various prompt templates and customization options.",
+  "requestFramePermissions": []
+}
